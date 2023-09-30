@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/PrashidPalShopping/static/css/main.22917c35.css",
-    "main.js": "/PrashidPalShopping/static/js/main.2cdf3592.js",
-    "index.html": "/PrashidPalShopping/index.html",
-    "main.22917c35.css.map": "/PrashidPalShopping/static/css/main.22917c35.css.map",
-    "main.2cdf3592.js.map": "/PrashidPalShopping/static/js/main.2cdf3592.js.map"
+    "main.css": "/PrashidPalShop/static/css/main.22917c35.css",
+    "main.js": "/PrashidPalShop/static/js/main.2cdf3592.js",
+    "index.html": "/PrashidPalShop/index.html",
+    "main.22917c35.css.map": "/PrashidPalShop/static/css/main.22917c35.css.map",
+    "main.2cdf3592.js.map": "/PrashidPalShop/static/js/main.2cdf3592.js.map"
   },
   "entrypoints": [
     "static/css/main.22917c35.css",

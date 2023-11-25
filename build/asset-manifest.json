@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPalBookStore/static/css/main.ead70877.css",
+    "main.js": "/PrashidPalBookStore/static/js/main.63b3fbf7.js",
+    "index.html": "/PrashidPalBookStore/index.html",
+    "main.ead70877.css.map": "/PrashidPalBookStore/static/css/main.ead70877.css.map",
+    "main.63b3fbf7.js.map": "/PrashidPalBookStore/static/js/main.63b3fbf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead70877.css",
+    "static/js/main.63b3fbf7.js"
+  ]
+}

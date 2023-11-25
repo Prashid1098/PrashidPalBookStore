@@ -1,0 +1,99 @@
+/* *
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+.top-bar
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5vh 1vw 0vh 1vw;
+}
+.formbar form button
+{
+    color: gray;
+    width: 6.5vw;
+}
+.formbar form input
+{
+    width: 30vw;
+    background-color: rgb(33, 32, 32);
+}
+.formbar form input,button
+{
+    height: 4vh;
+    margin-top: 2vh;
+}
+.group
+{
+    width: 20%;
+}
+.keazon
+{
+    width: 60%;
+    padding-left: 2vw;
+    padding-bottom: 1vh;
+}
+.Options span img
+{
+    width: 20%;
+    padding: 1vw;
+} */
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: black;
+}
+.nav-c
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: #292828;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+#kb-Icon img
+{
+    height: 4vh;
+}
+#kb-T img
+{
+    height: 3.5vh;
+}
+.Search-bar input
+{
+    width: 32vw;
+    height: 5vh;
+    background-color: #373737;
+    border: 1px solid #373737;
+}
+.Search-bar button
+{
+    height: 5vh;
+    width: 8vw;
+    margin-left: 1vw;
+    background-color: #292828;
+    color: white;
+    border: 1px solid white;
+}
+input[type='text']
+{
+    color: white;
+}
+.Options a
+{
+    margin: 1vw;
+}
+.Options a img
+{
+    height: 5vh;
+}

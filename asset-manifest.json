@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PrashidPalShop/static/css/main.22917c35.css",
-    "main.js": "/PrashidPalShop/static/js/main.2cdf3592.js",
-    "index.html": "/PrashidPalShop/index.html",
-    "main.22917c35.css.map": "/PrashidPalShop/static/css/main.22917c35.css.map",
-    "main.2cdf3592.js.map": "/PrashidPalShop/static/js/main.2cdf3592.js.map"
+    "main.css": "/PrashidPalBookStore/static/css/main.ead70877.css",
+    "main.js": "/PrashidPalBookStore/static/js/main.63b3fbf7.js",
+    "index.html": "/PrashidPalBookStore/index.html",
+    "main.ead70877.css.map": "/PrashidPalBookStore/static/css/main.ead70877.css.map",
+    "main.63b3fbf7.js.map": "/PrashidPalBookStore/static/js/main.63b3fbf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.22917c35.css",
-    "static/js/main.2cdf3592.js"
+    "static/css/main.ead70877.css",
+    "static/js/main.63b3fbf7.js"
   ]
 }
